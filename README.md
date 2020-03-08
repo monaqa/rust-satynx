@@ -18,3 +18,5 @@ cat fuga.rs | satynx rs
 ```
 
 ## Demo
+
+![example-satynx](https://user-images.githubusercontent.com/48883418/76158155-0e1bb500-6156-11ea-8ab2-68fd280a4a6b.gif)
